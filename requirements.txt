@@ -1,7 +1,6 @@
-altair
 pandas
 streamlit
+altair
 numpy
+plotly.express
 matplotlib
-scikit-learn
-plotly.plot
