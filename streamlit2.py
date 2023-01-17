@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 import matplotlib as plt
 import plotly.express as px
-from vega_datasets import data
-
 
 
 st.write("Streamlit Play:) creating dataframes and plotly plots")
