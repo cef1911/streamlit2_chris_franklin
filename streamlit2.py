@@ -3,8 +3,11 @@ import pandas as pd
 import numpy as np
 import matplotlib as plt
 import plotly.express as px
+from PIL import Image
 
+image = Image.open('sunrise.jpg')
 
+st.image(image, caption='Sunrise by the mountains')
 
 st.write("Streamlit Play:) creating dataframes and plotly plots, Hi Sir good morning")
 
