@@ -20,6 +20,9 @@ df = pd.DataFrame(
 
 st.dataframe(df)  # Same as st.write(df)
 
+
+
+
 lst = [['Geek', 25], ['is', 30], 
        ['for', 26], ['Geeksforgeeks', 22]] 
 
