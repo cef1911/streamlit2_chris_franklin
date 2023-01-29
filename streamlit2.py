@@ -20,12 +20,6 @@ df = pd.DataFrame(
 
 st.dataframe(df)  # Same as st.write(df)
 
-imagetwo = Image.open('birthday.jpeg')
-
-st.image(imagetwo, caption='Sunrise by the mountains')
-
-
-
 
 lst = [['Geek', 25], ['is', 30], 
        ['for', 26], ['Geeksforgeeks', 22]] 
