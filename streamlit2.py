@@ -20,7 +20,7 @@ df = pd.DataFrame(
 
 st.dataframe(df)  # Same as st.write(df)
 
-imagetwo = Image.open('https://github.com/cef1911/streamlit2_chris_franklin/blob/main/granda.JPG')
+imagetwo = Image.open('https://github.com/cef1911/streamlit2_chris_franklin/blob/main/sunrise.jpg')
 
 st.image(imagetwo, caption='Sunrise by the mountains')
 
